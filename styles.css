@@ -698,10 +698,6 @@ body {
         padding: 18px 40px;
         font-size: 12px;
     }
-
-    .hero-stats {
-        margin-top: 0.2rem;
-    }
     
     .section-title {
         font-size: 2.2rem;
@@ -733,10 +729,6 @@ body {
         background: url('images/platinum-school-mobile.jpg');
         background-size: cover;
         background-position: center;
-    }
-
-    .hero-content {
-        margin-top: 3rem;
     }
 
     .slogan {
