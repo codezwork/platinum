@@ -184,8 +184,8 @@ body {
     background: rgba(255, 255, 255, 0.2);
     background: linear-gradient(180deg, rgba(255,255,255,0), rgba(255,255,255,0.8));
     z-index: 1;
-    -webkit-backdrop-filter: blur(2px);
-    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(1.5px);
+    backdrop-filter: blur(1.5px);
 }
 
 /* Reddish-brown bubble shape */
