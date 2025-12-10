@@ -733,16 +733,21 @@ body {
     }
     
     .main-heading {
-        font-size: 2rem;
+        font-size: 1.2rem;
     }
     
     .tagline {
-        font-size: 1.1rem;
+        font-size: 0.8rem;
+    }
+
+    .slogan {
+        font-size: 0.8rem;
     }
     
     .hero-stats {
         gap: 30px;
         flex-direction: column;
+        margin-bottom: 1rem;
     }
     
     .stat-number {
